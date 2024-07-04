@@ -1,0 +1,80 @@
+body{
+ margin:0;
+}
+
+h1{
+    padding: 10px ;
+    margin: 0px;
+}
+
+.text{
+   margin: 0;
+   padding-bottom: 20px; 
+}
+
+header{
+height: 250px ;
+background-color: rgb(112, 134, 116);
+color: rgb(255, 255, 255);
+text-align: center;
+font-size: medium;
+background-image:url(https://i0.wp.com/coffeeculture.asia/wp-content/uploads/2021/06/Dry-Processed-Espresso-Coffee-Coffee-Culture-Thailand.jpg?fit=1500%2C1000&ssl=1) ; ;
+background-size: contain;
+background-position: bottom;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+main{
+height: 100% ;
+background-color: rgb(139, 198, 159) ;
+color: rgb(66, 87, 71);
+text-align: left;
+font-size: medium;
+padding: 10px;
+background-size: cover;
+background-position: center;
+display:flex;
+background-image:url(https://www.allrecipes.com/thmb/gk1cHP21-syS3M_dz1cr6DWxhfE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1165807395-2000-28ea3eaf72f34ddaa97d9a54ca0c6025.jpg);
+}
+.container{
+
+}
+.left{
+width:50% ;
+float: left;
+font-size:35px ;
+text-align: justify;
+}
+
+.right{
+    width:50% ;
+    float: right;
+    text-align: center;
+    padding-top: 200px;
+}
+
+
+footer{
+ height: 300px ;
+ background-color: rgb(95, 52, 7);
+ color: rgb(96, 53, 0);
+ text-align: center;
+ font-size: medium;
+background-image:url(https://assets.technologynetworks.com/production/dynamic/images/content/369984/people-who-drink-more-coffee-have-a-lower-blood-pressure-369984-960x540.jpg?cb=12152047);
+background-size: cover;
+background-position: bottom;
+font-family: 'Times New Roman', Times, serif;
+}
+
+.social img{
+width: 100px;
+padding-left: 10px;
+}
+
+.social{
+list-style: none;
+display: flex;
+justify-content: center;
+align-items: center;
+}
